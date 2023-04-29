@@ -1,4 +1,4 @@
-# DPP-project
+# DPP-project: Engine condition monitoring
 
 ## Задание
 
