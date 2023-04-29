@@ -4,7 +4,8 @@
 
 ### Предсказать performance значения для каждого полетного цикла.
 
-В input данных 53 параметра (50 уникальных + engine_id, flight_datetime, flight_phase)
+В input данных 53 параметра (50 уникальных + engine_id, flight_datetime, flight_phase).
+
 В output данных 33 параметра (30 уникальных + engine_id, flight_datetime, flight_phase). 
 
 P.S. Обратите внимание на четвертую главу методики оценки состояния двигателей.
